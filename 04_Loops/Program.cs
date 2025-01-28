@@ -158,24 +158,30 @@ namespace _04_Loops
 
             #region Örnek Sınav Sorusu
 
-            //Klavyeden girilen 3 basamaklı sayının basamakları 
-            //toplamını hesaplayan kodu yazın.
+            // Klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazın.
 
-            //Console.Write("Sayıyı girin: ");
+            //456
+
+            //Console.Write("Sayıyı giriniz: ");
+
             //int number = int.Parse(Console.ReadLine());
 
             //int ones, tens, hundreds;
+
             //int sum;
 
             //ones = number % 10;
-            //hundreds = number / 100;
-            //tens = (number % 100)/10;
 
-            //Console.WriteLine(ones + "-" + tens + "-" + hundreds);
+            //hundreds = number / 100; //4,56 -- > 4
+
+            //tens = (number % 100)/10; 
+
+            //Console.WriteLine(ones +"-" + tens + "-" + hundreds );
 
             //sum = ones + tens + hundreds;
 
             //Console.WriteLine(sum);
+
 
             #endregion
 
